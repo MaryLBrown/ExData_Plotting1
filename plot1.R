@@ -5,7 +5,6 @@
 ## Set up needed libraries
 library(readr)
 library(lubridate)
-library(dplyr)
 
 ## ---------------------------------------------------------------------------
 ## Get the data file if it doesn't already exist
